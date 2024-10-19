@@ -1,0 +1,41 @@
+---
+title: Welcome to Shadow Wizards Money Gang server guide
+description: Customized modded minecaft server!
+template: splash
+hero:
+  tagline: Customized modded minecaft server!
+  image:
+    file: ../../assets/logo.png
+  actions:
+    - text: Bestiary
+      link: /bestiary/
+      icon: right-arrow
+    - text: Wiki
+      link: /wiki/
+      icon: right-arrow
+    - text: Or check our blog
+      link: /blog/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+import ServerStatus from '../../components/serverstatus.astro';
+
+
+## Information
+
+<CardGrid>
+	<Card title="Server Status" icon="add-document">
+		<ServerStatus />
+	</Card>
+	<Card title="Contact" icon="pencil">
+		Join us in [Discord](https://starlight.astro.build/).
+	</Card>
+	<Card title="News" icon="open-book">
+		Check our [blog](./blog/)!
+	</Card>
+		<Card title="Contribute!" icon="setting">
+		Join discord to contribute to the Wiki or Bestiary.
+	</Card>
+</CardGrid>
