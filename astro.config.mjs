@@ -1,9 +1,13 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightBlog from 'starlight-blog'
-
+import sitemap from '@astrojs/sitemap';
 export default defineConfig({
+	site: 'https://shadow-wizards.org',
 	integrations: [
+		sitemap({
+
+		}),
 		starlight({
 			favicon: '/public/favicon.svg',
 			plugins: [starlightBlog({
