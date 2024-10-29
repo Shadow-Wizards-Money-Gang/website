@@ -9,7 +9,7 @@ export default defineConfig({
 
 		}),
 		starlight({
-			favicon: '/public/favicon.svg',
+			favicon: '/favicon.svg',
 			plugins: [starlightBlog({
 				authors: {
 				  santy: {
