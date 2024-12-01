@@ -15,6 +15,7 @@ With a few key exceptions, durability does not exist in the pack. In addition, e
 ## Armour
 
 ### Standard Armour
+
 Rather than the typical leather-chain-iron-diamond-netherite tiers for armour, SWMG uses its own tiers. Check EMI for crafting! In addition, enemies may drop their armour and it may also be found as loot.
 
 - **Gamberson**: Made of leather the same way vanilla leather is armour is made. In addition, animals drop more leather than normal and various enemies will also drop leather.
@@ -28,6 +29,7 @@ A thing to note is that while anyone can wear the above, it might have some draw
 ### Other Armour
 
 SWMG adds some additional armour
+
 - **Bone Armour**: Currently unobtainable, will be created from Hefty Beast Bones. A lighter armour that increases speed and has no other drawbacks.
 - **Liannar Armour**: Currently unobtainable, created specifically for battlemages. Liannar is a scared material that offers protection but does not weaken spells.
 - **Other Mods**: Mods such as RPG Wizards, RPG Paladins & Priests, etc also add their own armour. However many of it has stat requirements.
@@ -45,8 +47,7 @@ Grease can be applied to weapons, which will impart a specific effect on them ba
 
 ---
 
-Shields
----------
+## Shields
 
 There are 2 major types of shields to be aware of, standard (vanilla) shields, and buckler shields. 
  Standard shields require BOD to use efficiently, while bucklers do not. However, bucklers function in a different way, focusing on deflecting projectiles and parrying attacks. They are not strong enough to tank strong melee attacks.
