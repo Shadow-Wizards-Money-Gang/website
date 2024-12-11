@@ -6,7 +6,7 @@ In the world of Shadow Wizards, a modified form of progression is used, with dif
 
 **What are stats and how are they used?**
  Stats are a new system inspired by games such as Dark Souls or Elden Ring. Stat levels are created from XP. After you get enough XP, you may convert it into a stat point which can then be used to purchase a desired stat (check your keybinds for the key). This system encourages people to develop classes, encouraging adventure parties for more dangerious expeditions. In addition, certain resources can only be made by certain classes, to encourage interaction and specialisation.
-Stat levels will both be able to determine what items and even altars you may use, as well as passive stats such as your max health or speed. The stats we use are listed below an what they correspond to:
+Stat levels will both be able to determine what items and even altars you may use, as well as passive stats such as your max health or speed. The stats we use are listed below and what they correspond to:
 
 - **BOD**: Body. BOD determines your max health, raw damage, and even the size of your model! BOD often relates to being able to use heavy, stronger gear such as large swords and platemail.
 - **DEX**: Dexterity. DEX determines your speed and agility. High enough DEX will even unlock parkour! DEX is often used by rogue or ranger type classes, such as one's ability to use graceful, finess-based weapons such as rapiers, daggers, or bows.
