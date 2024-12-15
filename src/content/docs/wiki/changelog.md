@@ -9,6 +9,7 @@ description: List of every major update for swmg
 
 ### Balance
 - Water rats nerfed (sad)
+- Rats can now swim underwater, will try to catch some air eventually.
 - Baby rats have been reduced, plague rats have been reduced.
 - World border radius doubled! (750 radius => 1500 radius)
 - Ghouls fight has been tweaked and feels like a proper bossfight now. (no more clipping)
@@ -30,12 +31,13 @@ description: List of every major update for swmg
   - bite more often than sonic attacks, but increased dmg from each bite
 
 ### Bugfixes
-- Mixture of crashes from all ovet the mod
-- Strength weapons scaling incorrectly
+- Mixture of crashes from all over the mod
+- Strength weapons scaling has been readded and fixed, in a way that makes strength good.
 - Nerfed knife spam
--
 - Fixed keybind issues
 - ghoul types not working in modpack
+- many, many other things
+
 ### Additions:
 - Cooking with [Let's Do] mods will grant a bit of experience.
 - Fallen Knights may now drop a list of assorted, melee related combat books.
@@ -44,8 +46,7 @@ description: List of every major update for swmg
   - Create Grease/Holy Rune/Iron Golem
   - Create and upgrade holy scriptures
   - Clean Weather
-  - ~~Sanctify Weapon (Gives ~10m of holy grease, can be used to upgrade weapons into holy versionslater)~~
-  - ~~Restorative Field~~ (not added)
+  - Sanctify Weapon (Gives ~10m of holy grease, can be used to upgrade weapons into holy versions later)
 - Magic Whistle (Dropped by Fallen Knights, with a chance, when one with a horse has been slain.)
   - Can be used to revive and call for pets from any part on the world.
   - Can be used to store any pet.
