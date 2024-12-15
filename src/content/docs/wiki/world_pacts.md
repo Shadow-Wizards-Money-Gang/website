@@ -30,5 +30,5 @@ After it is assembled, you may offer it a specific resource to get your pact, an
 Currently, there are three World Pacts. A pact is selected based on the resource given, and then the deal is sealed by r-clicking on it with a Flint and Steel.
 
 - **Preternatural**: Sealed by offering the stela a **Diamond**. Increases the rate at which XP is gained; however death will always claim a level. After lv 9, the XP gain returns to normal but instead casting prowess is increased
-- **Persevering**: Sealed by offering the stela an **Emerald**.You will only lose a level every 4 deaths; however XP gain is halved. After lv 9, the effects wanes.
-- **Titanic**: Sealed by offering the stela an **Amethyst Block**. Your health increases unnaturally fast, but at the cost of slightly decreased XP gain. At lv 10, the effect wanes.
+- **Persevering**: Sealed by offering the stela an **Amethyst Block**.You will only lose a level every 4 deaths; however XP gain is halved. After lv 9, the effects wanes.
+- **Titanic**: Sealed by offering the stela an **Emerald**. Your health increases unnaturally fast, but at the cost of slightly decreased XP gain. At lv 10, the effect wanes.
