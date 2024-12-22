@@ -2,7 +2,20 @@
 title: Changelog
 description: List of every major update for swmg
 ---
+## Version 0.3
 
+## Bugfixes
+  - Ghoul screams don't have the power to crash your game
+  - Misclaneous stat fixes
+  - obsidian can be mined with iron
+  - iron is now faster than normal, but is still outpaced by enchanted stone
+  - Enchanted Books now need INT to tell type vs OCC
+  - Gapple usage is now OCC 6, rather than 9
+  - horses no longer respawn, it is up to OCC to breed more
+  - Triple Toothed Snake stats fixed to need high OCC and DEX, rather than high FAI and low OCC
+  - No more infinite grease icons
+## Aditions 
+ - Updated to SWMG PlayerEX to parity with main PlayerEX
 
 
 ## Version 0.2
