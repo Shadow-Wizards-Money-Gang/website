@@ -14,6 +14,7 @@ description: List of every major update for swmg
   - horses no longer respawn, it is up to OCC to breed more
   - Triple Toothed Snake stats fixed to need high OCC and DEX, rather than high FAI and low OCC
   - No more infinite grease icons
+  - World Pact behaviours have been fully fixed
 ## Aditions 
  - Updated to SWMG PlayerEX to parity with main PlayerEX
 
