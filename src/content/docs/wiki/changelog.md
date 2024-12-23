@@ -4,7 +4,7 @@ description: List of every major update for swmg
 ---
 ## Version 0.3
 
-## Bugfixes
+## Bugfixes/Tweaks
   - Ghoul screams don't have the power to crash your game
   - Misclaneous stat fixes
   - obsidian can be mined with iron
@@ -15,6 +15,20 @@ description: List of every major update for swmg
   - Triple Toothed Snake stats fixed to need high OCC and DEX, rather than high FAI and low OCC
   - No more infinite grease icons
   - World Pact behaviours have been fully fixed
+  - when ignition is procced on ghouls (and cupcake?) always ignite
+  - Misc fixes to Zotz behaviours
+  - zotz tweaks:
+    - longer delay between sonic attacks, plus sound for charging
+    - can only sonic boom if you can hear the sound
+    - sonic attack can be parried
+    - Zotzypres are blinded by heavy lights and their senses turn dull (when standing in daylight or a bright block they have way less detection range)
+    - Less zotz in the overworld but not hyper rare.
+    - Min Zotz packs from 3->2 Min zotz and from 5->4 max zotz batches
+    - Zotz sonic boom now properly loses dmg (after 3 blocks walls, it deals 0)
+    - Zotz sonic boom breaks glass, snow and ice (in a small radius)
+  - Fallen Knights drop the 3 spellbooks (1 roll, with a 10% chance each) for archers, warriors and assassins.
+  - Fire aspect has been reworked; it only proccs on fire with a chance of 30%; but it can extend burning time by 2 seconds each hit (up to 8).
+  - Fire bombs can be crafted with a pot recipe early game for alchemists.
 ## Aditions 
  - Updated to SWMG PlayerEX to parity with main PlayerEX
 
