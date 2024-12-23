@@ -27,8 +27,10 @@ description: List of every major update for swmg
     - Zotz sonic boom now properly loses dmg (after 3 blocks walls, it deals 0)
     - Zotz sonic boom breaks glass, snow and ice (in a small radius)
   - Fallen Knights drop the 3 spellbooks (1 roll, with a 10% chance each) for archers, warriors and assassins.
-  - Fire aspect has been reworked; it only proccs on fire with a chance of 30%; but it can extend burning time by 2 seconds each hit (up to 8).
+  - Fire aspect has been reworked. It doesn't proc fire but increases fire conductivity on grease by 500%, aditionally, increases the time set on fire on mobs, and can be used as a Flint & Steel.
   - Fire bombs can be crafted with a pot recipe early game for alchemists.
+  - Fixed hoe breaking when making cuts for grease.
+
 ## Aditions 
  - Updated to SWMG PlayerEX to parity with main PlayerEX
 
