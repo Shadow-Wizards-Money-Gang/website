@@ -2,6 +2,66 @@
 title: Changelog
 description: List of every major update for swmg
 ---
+
+## Version 0.4
+
+Dev team will be taking ~week to focus on other projects and regain sanity! we will welcome feedback but please be understading :)
+
+## TWEAKS/BUGFIXES
+- Fixed better combat behaviour being erratic
+- Player range starts at a vanilla player's now (at x0.9 of their height).
+- Buffed the range of:
+    - Axes (2.35 v 2.5 from swords)
+    - Daggers (2.2 v 2.35 from axes)
+    - Sword (2.5 -> 2.6)
+    - Halberds (To spear range)
+- Fixed??? zotz teleporting into buildings (unconfirmed)
+- Fixed distillery building not being completed sometimes, and some tweaks to them.
+- Fixed melee damage boost from strength not working properly. (barehanded)
+- Thermoo's burning is less annoying, hopefully (we can't disable it sadly... excluding too many people ask for it as a priority)
+- Disabled Solid Mobs, bar a few mobs like, players, horses (or anything WAY larger than you).
+- Right click harvest mod added
+- Fixed barehanded str players attack damage not working.
+- Rat behaviours tweaked
+- Fixed rats attacking even when you threw food and didn't hit them.
+- fix ghoul scream and readd (after checking they Burn properly with grease)
+- Restricted ghouls to only spawn farther from spawn (~2000 blocks)
+- Restricted cupcake to only spawn farther from spawn (~2000 combined x+z in any dir).
+- Fixed Kapala and skull renderers being weird sometimes
+- Arrows shoot by the players themselves will be ignored by high armour now. (excluding it's their own arrows)
+- Buildup effects from plague rats are fixed
+- Slowed down rats in general, they're still faster considerably faster than us, but not insanely so.
+- Nerfed very high damage for lv 9 archers and arcane magic users (still good tho)
+- zotz changes
+    - always spawn in packs (and follow packs)
+    - leader zotz are less of a power drill, and will fall back if hit
+    - zotz target priority
+        - rats
+        - players with little to no armour (not implemented).
+        - animals (same as ghouls)
+        - players with armour/anything bigger than them
+    - zotz panic when on fire and drop the hunt immediately until extinguished
+    - the system is ignored if something hits them first, in which they will go after it no matter what
+    - zotz deal more dmg to rats; drops some item related to dealing more dmg to rats?
+    - zotz heal only from lifesteal, vs just falling back and healing. If they are hurt, they will try to find adequate prey to feed on to heal before attacking again (unless forced by a leader mob)
+- armor tier >1 buffs (and less speed loss at str mid-high str levels)
+
+- Fire aspect lasts 1 in-game day from when it's applied after which:
+    - ~~You must apply a grease every 24hs to keep it alive.~~
+    - ~~After 3 days, the effect will dwindle and dissapear anyways.~~
+    - After 12hs it will only ignite for half the time. (but always ignite)
+    - Mobs ignore this restriction.
+    - If using fire grease and fire aspect, you will deal extra fire damage.
+
+Crossed out things means they were removed or are currently disabled.
+
+## Additions
+- grease keybind
+- holy water, created in a holy altar by priests. Can be thrown to harm and apply a long lasting depower to undeads (Not yet enabled.)
+- Small Spider Scorpions/Spider Scorpions
+    - (Just some testing for em, the parents aren't real, they don't spawn, a bit buggy, don't climb yet, don't have spawn egg.).
+    - The babies work relatively well, the big ones are braindead for now.
+
 ## Version 0.3
 
 ## Bugfixes/Tweaks
